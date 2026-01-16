@@ -1,2 +1,4 @@
 # ML-Performance-
-Performance analysis of ML algorithms using Python
+
+Goal: Analyze the performance of machine learning algorithms across different implementations.
+
